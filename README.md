@@ -1,4 +1,4 @@
-# Analise Desempenho Players
+# Análise Desempenho Players
 
 Repositório criado para competição no Kaggle
 
